@@ -10,6 +10,8 @@ Performing analysis on Kickstart data to uncover trends to help better inform th
 In this section, we will take a look at the analysis of the Kickstarter data, mention the challenges that may have been encountered, and how we were able to overcome these challenges. 
 
 ### Analysis of Outcomes Based on Launch Date
-Here we organize and sort our data to look at the relation between the outcomes of crowd fundraising campaigns and the month of their launch date.
+Here we organize and sort our data to look at the relation between the outcomes of crowd fundraising campaigns and the month of their launch date. We first filtered out all of the crowd fundraising campaigns that were not theatrically related. We then grouped all of the different theatrical campaigns into one of the three different outcomes (successful/failed/cancled), which were then sorted into the month that they were released. This process can be better visualized and understood through the image below.
 
 ![Theater_Outcomes_vs_Launch](images/Theater_Outcomes_vs_Launch.png)
+ #### Results #1
+There are a few key things we can take away from this chart. The biggest takeaway from the chart that beneficial to Louise is the amount of successful campaigns made in the month of May. We can see a huge spike in increase of successful campaigns relative to the other months. This may be a good indication to determine when Louise should release her campaign. 
